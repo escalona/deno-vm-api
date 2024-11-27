@@ -128,3 +128,7 @@ The code execution environment benefits from deno-vm's security features:
 - Configurable permissions system
 - Isolated runtime environment
 - Cross-platform support (Windows, MacOS, and Linux)
+
+## License
+
+[MIT](./LICENSE)

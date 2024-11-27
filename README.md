@@ -5,7 +5,7 @@ TypeScript/JavaScript code using the [deno-vm](https://github.com/casual-simulat
 
 ## Features
 
-- Secure code execution through deno-vm:
+- Secure code execution through deno-vm
 - Redis-based script storage
 - Console output capturing
 

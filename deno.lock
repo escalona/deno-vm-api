@@ -1,0 +1,27 @@
+{
+  "version": "4",
+  "redirects": {
+    "https://deno.land/std/encoding/base64.ts": "https://deno.land/std@0.224.0/encoding/base64.ts"
+  },
+  "remote": {
+    "https://deno.land/std@0.224.0/encoding/_util.ts": "beacef316c1255da9bc8e95afb1fa56ed69baef919c88dc06ae6cb7a6103d376",
+    "https://deno.land/std@0.224.0/encoding/base64.ts": "dd59695391584c8ffc5a296ba82bcdba6dd8a84d41a6a539fbee8e5075286eaf"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@dotenvx/dotenvx@^1.25.1",
+        "npm:@fastify/cors@^10.0.1",
+        "npm:@types/node@^22.10.0",
+        "npm:deno-vm@0.12",
+        "npm:fastify@^5.1.0",
+        "npm:ioredis@^5.4.1",
+        "npm:pino-pretty@13",
+        "npm:prettier@^3.4.0",
+        "npm:tsx@^4.19.2",
+        "npm:typescript@^5.7.2",
+        "npm:ws@^8.18.0"
+      ]
+    }
+  }
+}
